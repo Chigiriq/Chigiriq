@@ -22,12 +22,10 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chigiriq&layout=compact&theme=shades-of-purple" />
 </a>
 <br />
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <a>
-    <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=shades-of-purple"/>
-  </a>
-  <a>
-    <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=shades-of-purple&utcOffset=8"/>
-  </a>
-</div>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=shades-of-purple" />
+</a>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=shades-of-purple&utcOffset=8" />
+</a>
 <!--![Chigiriq's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Chigiriq) -->
