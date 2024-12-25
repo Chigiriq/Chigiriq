@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 </a>
 <br />
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=shades-of-purple" />
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=shades_of_purple" />
 </a>
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=shades-of-purple&utcOffset=8" />
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=shades_of_purple&utcOffset=8" />
 </a>
 <!--![Chigiriq's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Chigiriq) -->
