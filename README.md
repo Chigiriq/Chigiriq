@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chigiriq&layout=compact" />
 </a>
 <br />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=default">
+<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=default">
 <br />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=default&utcOffset=8">
+<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=default&utcOffset=8">
 <!--![Chigiriq's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Chigiriq) -->
