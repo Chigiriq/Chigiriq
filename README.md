@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Chigiriq&theme=shades-of-purple" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chigiriq&layout=donut&theme=shades-of-purple" height="200">
   <br />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=shades_of_purple" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=shades_of_purple&utcOffset=8" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=shades_of_purple" width="45%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=shades_of_purple&utcOffset=8" width="45%">
 </p>
