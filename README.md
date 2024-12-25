@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chigiriq&layout=compact" />
 </a>
 <br />
-![Chigiriq's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Chigiriq)
+<!--![Chigiriq's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Chigiriq) -->
