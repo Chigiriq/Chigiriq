@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chigiriq&theme=shades_of_purple">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chigiriq&theme=material-palenight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chigiriq&theme=material-palenight">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chigiriq&theme=shades_of_purple">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=shades_of_purple">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=shades_of_purple&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chigiriq&theme=material-palenight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chigiriq&theme=material-palenight&utcOffset=8">
 </p>
